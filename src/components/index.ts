@@ -1,0 +1,13 @@
+export {default as Header} from './Header';
+export {default as Preview} from './Preview';
+export {default as Image} from './Image';
+export {default as Episodes} from './Episodes';
+export {default as Episode} from './Episode';
+export {default as Tag} from './Tag';
+export {default as Button} from './Button';
+export {default as About} from './About';
+export {default as Contact} from './Contact';
+export {default as Reviews} from './Reviews';
+export {default as Review} from './Review';
+export {default as Footer} from './Footer';
+export {default as CustomLink} from './CustomLink';
